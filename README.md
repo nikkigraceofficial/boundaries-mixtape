@@ -1,8 +1,10 @@
 # Boundaries #
 
+https://soundcloud.com/nikkigracetoronto/sets/boundaries
+
 The debut, 5-track, open-source mixtape by 29-year-old female Toronto rapper/producer Nicole 'Nikki' Grace.
 
-Each track has been composed, produced and recorded within the process of seven days, through the month of June, and are being released in real-time on all major digital streaming platforms as a not-for-profit stream.
+Each track has been composed, produced and recorded within the process of seven days, through the month of June (two are forthcoming), and are being released in real-time on all major digital streaming platforms as a not-for-profit stream.
 
 # 'Open Source Mixtape?' #
 
@@ -20,4 +22,8 @@ I'm self-conscious. :P Furthermore, the objective of open-sourcing this is to en
 
 # 'Can I Use [insert thing here]?' #
 
-As long as the material is not copyrighted - e.g. the samples themselves - I encourage you to take whatever you can use from this project, however you can, for your own works - including for-profit works - once again - as long as no copyrighted content is used.
+As long as the material is not copyrighted (e.g. the samples themselves) I encourage you to take whatever you can use from this project, however you can, for your own works (including for-profit works). Once again - as long as no copyrighted content is used, Do As Thou Will, et cetera.
+
+# There's 3 Songs, not 5! #
+
+They are made weekly and will continue to be released on a weekly basis. :)
