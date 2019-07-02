@@ -6,6 +6,8 @@ The debut, 5-track, open-source mixtape by 29-year-old female Toronto rapper/pro
 
 Each track has been composed, produced and recorded within the process of seven days, through the month of June (two are forthcoming), and are being released in real-time on all major digital streaming platforms as a not-for-profit stream.
 
+PLEASE NOTE: Ardour project files are in the works. I have recieved a lot of criticism for releasing only Logic project files, which, of course, is about as proprietary as software gets. Please have patience, as I am OCD.
+
 # 'Open Source Mixtape?' #
 
 The concept is, essentially, that these tracks can serve as useful educational tools for people, as well as some good music.
