@@ -26,6 +26,6 @@ I'm self-conscious. :P Furthermore, the objective of open-sourcing this is to en
 
 As long as the material is not copyrighted (e.g. the samples themselves) I encourage you to take whatever you can use from this project, however you can, for your own works (including for-profit works). Once again - as long as no copyrighted content is used, Do As Thou Will, et cetera.
 
-# There's 3 Songs, not 5! #
+# There's 4 Songs, not 5! #
 
 They are made weekly and will continue to be released on a weekly basis. :)
